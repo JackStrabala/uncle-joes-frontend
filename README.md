@@ -19,4 +19,4 @@ This repository is responsible for the customer-facing side of the project. It d
 
 ## Team
 This project is being developed as part of a course project using a separate backend and frontend repository structure.
-# ethan's commit
+# Team Members Committing: Ethan, Arjun
