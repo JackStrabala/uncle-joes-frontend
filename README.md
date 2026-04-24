@@ -17,6 +17,9 @@ The frontend provides the user interface for the application and connects to the
 ## Purpose of This Repository
 This repository is responsible for the customer-facing side of the project. It displays data retrieved from the backend API and provides the overall user experience for the Uncle Joe’s pilot platform.
 
+## Live App
+https://uncle-joes-frontend-635962130347.us-east1.run.app
+
 ## Team
 This project is being developed as part of a course project using a separate backend and frontend repository structure.
 # Team Members Committing: Ethan, Arjun, Brandon, Hussain
