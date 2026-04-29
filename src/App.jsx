@@ -795,9 +795,6 @@ function LocationsPage({ profile }) {
                 >
                   {safeText(loc.city)}, {safeText(loc.state)}
                 </h3>
-                <p style={{ fontFamily: SANS, color: T.muted, fontSize: 12, margin: "0 0 12px" }}>
-                  Store #{safeText(loc.id)}
-                </p>
 
                 <div style={{ display: "flex", gap: 8, alignItems: "flex-start", marginBottom: 10 }}>
                   <MapPin size={16} color={T.caramel} style={{ flexShrink: 0, marginTop: 2 }} />
