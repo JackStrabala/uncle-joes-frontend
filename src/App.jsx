@@ -1203,6 +1203,8 @@ function DashboardPage({ memberId, profile, onProfileLoaded }) {
               fontSize: 32,
               margin: "0 0 6px",
               letterSpacing: -0.5,
+              color: T.cream,
+
             }}
           >
             Welcome back, {profile?.first_name || "Friend"}.
