@@ -291,7 +291,6 @@ function Header({ page, setPage, member, profile, onLoginClick, onLogout }) {
     >
       <div
         style={{
-          maxWidth: 1200,
           margin: "0 auto",
           padding: "20px 24px",
           display: "flex",
@@ -1369,7 +1368,6 @@ function Footer() {
     >
       <div
         style={{
-          maxWidth: 1200,
           margin: "0 auto",
           display: "flex",
           justifyContent: "space-between",
@@ -1488,7 +1486,6 @@ export default function App() {
 
       <main
         style={{
-          maxWidth: 1200,
           width: "100%",
           margin: "0 auto",
           padding: "32px 24px",
