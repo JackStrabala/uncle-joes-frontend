@@ -588,7 +588,6 @@ function HomePage({ setPage, member, profile, onLoginClick }) {
             fontFamily: SANS,
             fontSize: 16,
             color: T.coffee,
-            maxWidth: 540,
             margin: "0 auto 28px",
             lineHeight: 1.6,
           }}
